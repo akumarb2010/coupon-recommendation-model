@@ -10,6 +10,6 @@ This data comes to us from the UCI Machine Learning repository and was collected
 20 - $50).
 
 ## Exploration of Coupon Recommendation Model Output
-
+[Notebook](https://github.com/akumarb2010/coupon-recommendation-model/blob/main/coupon_recommendation_model_analysis.ipynb)
 
 ## Findings
